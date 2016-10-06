@@ -24,7 +24,7 @@ body {
 	position: relative;
 	}
 	header#mainHeader {
-	height: 600px;
+	height: 200px;
 	background: url(images/actualLogo.png) no-repeat -250px center;
 	padding: 0 75px 0 300px;
 	position: relative;
