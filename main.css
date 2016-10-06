@@ -25,7 +25,8 @@ body {
 	}
 	header#mainHeader {
 	height: 400px;
-	background: url(images/finalLogo.png) width="100px" height="100px" no-repeat 25px center;
+	background: url(images/finalLogo.png) no-repeat 25px center}{
+	width:20 height:20};
 	padding: 0 75px 0 300px;
 	position: relative;
 	border-bottom: 2px solid brown;
