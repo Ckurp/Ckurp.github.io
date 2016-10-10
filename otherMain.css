@@ -24,15 +24,15 @@ body {
 	position: relative;
 	}
 	header#mainHeader {
-	height: 400px;
-	background: url(images/actualLogo.png) no-repeat -250px center;
+	height: 175px;
+	background: url(images/actualLogo2.png) no-repeat -250px center;
 	padding: 0 75px 0 300px;
 	position: relative;
 	border-bottom: 2px solid brown;
 	margin-bottom:16px;
 	}
 	header#mainHeader div{
-margin-top: 16px;
+margin-top: 20px;
 	}
 	header#mainHeader ul{
 	list-style: none;
